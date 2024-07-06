@@ -1,0 +1,16 @@
+{
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "dependencies": {
+    "@types/node": "^20.14.10",
+    "@types/puppeteer": "^7.0.4",
+    "puppeteer": "^22.12.1",
+    "typescript": "^5.5.3"
+  },
+  "name": "Kangaroo",
+  "type": "module",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
+}
